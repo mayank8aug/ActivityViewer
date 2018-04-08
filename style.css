@@ -1,0 +1,212 @@
+body {
+    font-size: 16px;
+    overflow: hidden;
+}
+
+.container {
+    padding-top: 1rem;
+    width: calc(100% - 4rem);
+    height: 100%;
+    border: 20px solid #555;
+    border-radius: 30px;
+    border-bottom: 50px solid #555;
+    border-top: 50px solid #555;
+    background-color: #EEE;
+}
+
+.nav-tabs li {
+    width: 50%;
+    background: #FFF;
+}
+
+#tab-content {
+    padding: 0.4rem 0;
+    border: 1px solid #C4C4C4;
+}
+
+#cardsGroup {
+    height: 80%;
+    overflow: auto;
+    margin-top: 1rem;
+}
+
+.cardContainer {
+    position: relative;
+    display: inline-block;
+    width: calc(33% - 2rem);
+    margin: 1rem;
+}
+
+.bannerImg {
+    height: 25%;
+    border: 1px solid #DDD;
+}
+
+.sessionDetails {
+    color: #FFF;
+}
+
+.activityOverview {
+    border: 1px solid #DDD;
+    padding: 20px 10px;
+    background-color: #FFF;
+}
+
+.activityTitle span {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.activityDuration {
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    background: #DDD;
+    padding: 0.4rem;
+    border-radius: 15px;
+    right: 10px;
+}
+
+.eventDetails div {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.authorImg {
+    position: absolute;
+    top: 40%;
+    text-align: center;
+    padding: 0.4rem;
+    left: 5px;
+}
+
+.authorImg img {
+    border-radius: 20px;
+}
+
+.bannerImg {
+    background: url(./activityBg.jpg);
+}
+
+.sessionAndAuthor {
+    position: absolute;
+    top: 47%;
+    left: 20%;
+}
+
+.glyphicon-calendar {
+    padding-right: 0.4rem;
+}
+
+.glyphicon-map-marker {
+    display: inline-block;
+    width: 10px;
+    padding-right: 2rem;
+}
+
+.location {
+    width: 85%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.eventDate, .eventLocation {
+    width: 50%;
+}
+
+.onlineIndicator {
+    height: 15px;
+    width: 15px;
+    background-color: #0F0;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 0.4rem;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    background: #04476D;
+    color: #FFF;
+}
+
+.activityTitle {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#searchId {
+    padding: 0 1rem;
+}
+
+.searchIcon {
+    top: 0;
+    position: relative;
+    opacity: 0.6;
+    left: -40%;
+    padding: 0.6rem;
+}
+
+.searchIcon::before {
+    content: '\1F50E';
+}
+
+#searchInput {
+    padding: 1rem 1rem 1rem 3rem;
+    width: 40%;
+}
+
+.nav-tabs {
+    width: 60%;
+    border: 1px solid #DDD;
+}
+
+.tab {
+    text-align: center;
+    font-weight: 700;
+}
+
+#loader {
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 100px;
+    height: 100px;
+    animation: spin 0.5s linear infinite;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    z-index: 1000;
+}
+
+.errorContainer {
+    padding: 1rem;
+    color: #FF0000;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@media only screen and (max-width: 800px) {
+    .cardContainer {
+        width: calc(100% - 2rem);;
+    }
+}
+
+@media only screen and (min-width: 801px) and (max-width: 1200px) {
+    .cardContainer {
+        width: calc(50% - 2rem);;
+    }
+}
+
+.glyphicon-map-marker:before {
+    color: #F00;
+}
+
+.glyphicon-calendar:before {
+    color: #4169E1;
+}

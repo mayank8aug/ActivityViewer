@@ -1,0 +1,24 @@
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+    <script src="systemProps.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="style.css">
+    <script src="ActivityComponent.js" type="text/babel"></script>
+</head>
+<body>
+<div class="container">
+    <ul class="nav nav-tabs">
+        <li id='give' class="active tab"><a data-toggle="tab" href="#giveTabId">Give</a></li>
+        <li id='get' class="tab"><a data-toggle="tab" href="#getTabId">Get</a></li>
+    </ul>
+    <div id="tab-content">
+    </div>
+</div>
+<div id="loader" style="display: none"></div>
+</body>
+</html>

@@ -1,0 +1,455 @@
+{
+  "code": 200,
+  "message": "ok",
+  "activities_count": 8,
+  "activities": [
+    {
+      "id": "0cdf73755eeebec0d62dddf92c98d497",
+      "title": "Teach me basic yoga for back pain",
+      "creator_role": 4,
+      "creator": {
+        "id": "3767d7596a6d03cf822e4625788e3fef",
+        "name": "Kshitij Aggarwal",
+        "username": "funkyidol",
+        "external_id": "868fca5202e1793f5ef869b6f23eac38",
+        "profile_pic": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/profile/default.png"
+      },
+      "time_details": {
+        "time_needed": 60,
+        "label": "-1h "
+      },
+      "group_details": {
+        "num_participants": 1,
+        "time_needed_per_participant": 60
+      },
+      "is_online": true,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 07:27:08",
+      "skill_set": {
+        "categories": [
+          {
+            "id": "bcb8027d6de276d815b0eea0f31f96e4",
+            "name": "Wellness & Care",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/wellness-care.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/wellness-care.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "e5561489ec526f5b2cbb985b8c67a918",
+          "date": "2018-04-15",
+          "location_details": {
+            "location_id": "8eeccc9ccb17abc4d034a94fc0b88b01",
+            "location_name": "Regal Building",
+            "location_address": "Regal Building, No. 12, Sansad Marg, Block G, Connaught Place, New Delhi, Delhi 110001, India",
+            "location_radius": "100",
+            "pincode": "110001",
+            "lat": "28.6318598",
+            "lng": "77.2168292"
+          }
+        }
+      }
+    },
+    {
+      "id": "27953bd2dfa7e7c58774b66bfdace7f9",
+      "title": "Teach me watercolor paining",
+      "creator_role": 4,
+      "creator": {
+        "id": "3767d7596a6d03cf822e4625788e3fef",
+        "name": "Kshitij Aggarwal",
+        "username": "funkyidol",
+        "external_id": "868fca5202e1793f5ef869b6f23eac38",
+        "profile_pic": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/profile/default.png"
+      },
+      "time_details": {
+        "time_needed": 120,
+        "label": "-2h "
+      },
+      "group_details": {
+        "num_participants": 1,
+        "time_needed_per_participant": 120
+      },
+      "is_online": false,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 07:24:38",
+      "skill_set": {
+        "categories": [
+          {
+            "id": "eb41d3ec3517082114a95ebb62b13616",
+            "name": "Arts & Music",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/arts-music.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/arts-music.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "0b97d2f07d810512bae2480b8d1b3eb4",
+          "date": "2018-04-14",
+          "location_details": {
+            "location_id": "f23de232bcc2186258cd271f64d91de6",
+            "location_name": "Rani Bagh",
+            "location_address": "Rani Bagh, Pitampura, Delhi, 110034, India",
+            "location_radius": "100",
+            "pincode": "110034",
+            "lat": "28.6895479",
+            "lng": "77.1265842"
+          }
+        }
+      }
+    },
+    {
+      "id": "27a85a35594c09222276627476063c5c",
+      "title": "Intro to Japnese Speaking",
+      "creator_role": 4,
+      "creator": {
+        "id": "3767d7596a6d03cf822e4625788e3fef",
+        "name": "Kshitij Aggarwal",
+        "username": "funkyidol",
+        "external_id": "868fca5202e1793f5ef869b6f23eac38",
+        "profile_pic": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/profile/default.png"
+      },
+      "time_details": {
+        "time_needed": 120,
+        "label": "-2h "
+      },
+      "group_details": {
+        "num_participants": 1,
+        "time_needed_per_participant": 120
+      },
+      "is_online": true,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 07:21:03",
+      "skill_set": {
+        "categories": [
+          {
+            "id": "2e2948e950d773a2a6341b9ef1c93a28",
+            "name": "Academics",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/academics.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/academics.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "fb0abb94fd6720c922422e7f3c03db12",
+          "date": "2018-04-13",
+          "location_details": {
+            "location_id": "085c5fec9a63bea38faf1facfa625729",
+            "location_name": "Punjabi Bagh Club",
+            "location_address": "Ring Rd, Block B, Sudershan Park, New Delhi, Delhi 110026, India",
+            "location_radius": "100",
+            "pincode": "110026",
+            "lat": "28.6631551",
+            "lng": "77.1309288"
+          }
+        }
+      }
+    },
+    {
+      "id": "4b9a5c0ec82290a37fdd7e710dcd0876",
+      "title": "Intro to Social MEdia marketing",
+      "creator_role": 4,
+      "creator": {
+        "id": "3767d7596a6d03cf822e4625788e3fef",
+        "name": "Kshitij Aggarwal",
+        "username": "funkyidol",
+        "external_id": "868fca5202e1793f5ef869b6f23eac38",
+        "profile_pic": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/profile/default.png"
+      },
+      "time_details": {
+        "time_needed": 60,
+        "label": "-1h "
+      },
+      "group_details": {
+        "num_participants": 10,
+        "time_needed_per_participant": 60
+      },
+      "is_online": true,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 07:25:42",
+      "skill_set": {
+        "categories": [
+          {
+            "id": "d6e6cb19e3b9c02f89d6cd54cfa7c613",
+            "name": "Business",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/business.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/business.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "9eecfcba1a835172e9f1e0a31d2f9bb2",
+          "date": "2018-04-15",
+          "location_details": {
+            "location_id": "39dee35d9db2e5255d9ba533573b9e40",
+            "location_name": "Hauz Khas Village",
+            "location_address": "Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+            "location_radius": "100",
+            "pincode": "110016",
+            "lat": "28.5533997",
+            "lng": "77.1941654"
+          }
+        }
+      }
+    },
+    {
+      "id": "7dd29631b8a5e5a076d75130a9f5df38",
+      "title": "Help buy trendy furniture",
+      "creator_role": 4,
+      "creator": {
+        "id": "42f75216dfc6b85417e17773122b1e81",
+        "name": "Nidhi Gurnani",
+        "username": "nidhign",
+        "external_id": "7c00b9294aa84448133eef62c0896b53",
+        "profile_pic": "http://staging.hourvillage.com/api/images/users/42f75216dfc6b85417e17773122b1e81_experiement_poster_dp.jpg"
+      },
+      "time_details": {
+        "time_needed": 60,
+        "label": "-1h "
+      },
+      "group_details": {
+        "num_participants": 1,
+        "time_needed_per_participant": 60
+      },
+      "is_online": false,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 08:00:21",
+      "skill_set": {
+        "categories": [
+          {
+            "id": "1efd5a4cb7e8b445ad239f0226526c5f",
+            "name": "Lifestyle",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/lifestyle.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/lifestyle.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "8590651a7a532fae0111097285c57b80",
+          "date": "2018-04-19",
+          "location_details": {
+            "location_id": "12abf54ef3b58b009f66bf50da05950b",
+            "location_name": "Kamla Market",
+            "location_address": "Kamla Market, Ajmeri Gate, Delhi, 110002, India",
+            "location_radius": "100",
+            "pincode": "110002",
+            "lat": "28.6440001",
+            "lng": "77.2240468"
+          }
+        }
+      }
+    },
+    {
+      "id": "c99ad0e1481c958e8f17492d557cc625",
+      "title": "Help Create diet plan",
+      "creator_role": 4,
+      "creator": {
+        "id": "42f75216dfc6b85417e17773122b1e81",
+        "name": "Nidhi Gurnani",
+        "username": "nidhign",
+        "external_id": "7c00b9294aa84448133eef62c0896b53",
+        "profile_pic": "http://staging.hourvillage.com/api/images/users/42f75216dfc6b85417e17773122b1e81_experiement_poster_dp.jpg"
+      },
+      "time_details": {
+        "time_needed": 60,
+        "label": "-1h "
+      },
+      "group_details": {
+        "num_participants": 1,
+        "time_needed_per_participant": 60
+      },
+      "is_online": false,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 08:02:24",
+      "skill_set": {
+        "categories": [
+          {
+            "id": "bcb8027d6de276d815b0eea0f31f96e4",
+            "name": "Wellness & Care",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/wellness-care.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/wellness-care.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "85cb7e5a9e25ad2a3f89f2136fa46298",
+          "date": "2018-04-18",
+          "location_details": {
+            "location_id": "c172d2dcb782403bfcc41255441a9098",
+            "location_name": "World Trade Center",
+            "location_address": "World Trade Center, Fire Brigade Lane, Barakhamba, New Delhi, Delhi 110001, India",
+            "location_radius": "100",
+            "pincode": "110001",
+            "lat": "28.6306084",
+            "lng": "77.2270883"
+          }
+        }
+      }
+    },
+    {
+      "id": "ce730601a38a69e29a550a1a7388669b",
+      "title": "History of Indian Cricket",
+      "creator_role": 4,
+      "creator": {
+        "id": "3767d7596a6d03cf822e4625788e3fef",
+        "name": "Kshitij Aggarwal",
+        "username": "funkyidol",
+        "external_id": "868fca5202e1793f5ef869b6f23eac38",
+        "profile_pic": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/profile/default.png"
+      },
+      "time_details": {
+        "time_needed": 180,
+        "label": "-3h "
+      },
+      "group_details": {
+        "num_participants": 10,
+        "time_needed_per_participant": 180
+      },
+      "is_online": false,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 07:19:35",
+      "skill_set": {
+        "categories": [
+          {
+            "id": "918e180e06b96c76b7193c9fcb1cb312",
+            "name": "Sports",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/sports.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/sports.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "32aac8e4b0eed9a85aa31be26d91bc03",
+          "date": "2018-04-08",
+          "location_details": {
+            "location_id": "89344bc8fa87ec31e7f9bbd9b7186648",
+            "location_name": "Sansad Vihar Apartments",
+            "location_address": "Block C1, Co-operative Group Housing Societies Pitampura, Pitampura, Delhi, 110034, India",
+            "location_radius": "100",
+            "pincode": "110034",
+            "lat": "28.6923332",
+            "lng": "77.1015911"
+          }
+        }
+      }
+    },
+    {
+      "id": "e7bbecb2b711643004f49506059a989f",
+      "title": "Looking for Volunteers for Dog rescue",
+      "creator_role": 4,
+      "creator": {
+        "id": "42f75216dfc6b85417e17773122b1e81",
+        "name": "Nidhi Gurnani",
+        "username": "nidhign",
+        "external_id": "7c00b9294aa84448133eef62c0896b53",
+        "profile_pic": "http://staging.hourvillage.com/api/images/users/42f75216dfc6b85417e17773122b1e81_experiement_poster_dp.jpg"
+      },
+      "time_details": {
+        "time_needed": 90,
+        "label": "-1h 30m"
+      },
+      "group_details": {
+        "num_participants": 12,
+        "time_needed_per_participant": 90
+      },
+      "is_online": false,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 07:58:21",
+      "skill_set": {
+        "categories": [
+          {
+            "id": "d12b1fbcf5d5e7f9ddfd2554fca6633a",
+            "name": "Social Impact & Community",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/social-impact-community.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/social-impact-community.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "ef28f4d9efb2fc1aed508a84c9bdb2c7",
+          "date": "2018-04-18",
+          "location_details": {
+            "location_id": "b58a62fb171254aaf054e62206d6d418",
+            "location_name": "SPCA Veterinary Hospital",
+            "location_address": "Vidya Nagar, Ramanayapeta, Kakinada, Andhra Pradesh 533005, India",
+            "location_radius": "100",
+            "pincode": "533005",
+            "lat": "16.9850429",
+            "lng": "82.2428806"
+          }
+        }
+      }
+    }
+  ]
+}

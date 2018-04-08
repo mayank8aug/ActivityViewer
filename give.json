@@ -1,0 +1,501 @@
+{
+  "code": 200,
+  "message": "ok",
+  "activities_count": 8,
+  "activities": [
+    {
+      "id": "2074e7460f882fefa1e08441dcb912b7",
+      "title": "First Aid 101",
+      "creator_role": 3,
+      "creator": {
+        "id": "3767d7596a6d03cf822e4625788e3fef",
+        "name": "Kshitij Aggarwal",
+        "username": "funkyidol",
+        "external_id": "868fca5202e1793f5ef869b6f23eac38",
+        "profile_pic": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/profile/default.png"
+      },
+      "time_details": {
+        "time_needed": 60,
+        "label": "+1h "
+      },
+      "group_details": {
+        "num_participants": 2,
+        "time_needed_per_participant": 60
+      },
+      "is_online": true,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 07:15:52",
+      "skill_set": {
+        "categories": [
+          {
+            "id": "bcb8027d6de276d815b0eea0f31f96e4",
+            "name": "Wellness & Care",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/wellness-care.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/wellness-care.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "88cb29e248d296bc577f780df1d623a7",
+          "date": "2018-04-11",
+          "location_details": {
+            "location_id": "f6314978ca0774b58367e471e5a08b8d",
+            "location_name": "Netaji Subash Place Aggerwal Millennium Tower, Lala Jagat Narayan Marg",
+            "location_address": "Netaji Subash Place Aggerwal Millennium Tower, Lala Jagat Narayan Marg, Netaji Subash Place, Pitampura, Delhi, 110034, India",
+            "location_radius": "100",
+            "pincode": "110034",
+            "lat": "28.6937734",
+            "lng": "77.1491987"
+          }
+        }
+      }
+    },
+    {
+      "id": "2b18562030733749318620ba3186e62b",
+      "title": "Basics of Violin",
+      "creator_role": 3,
+      "creator": {
+        "id": "3767d7596a6d03cf822e4625788e3fef",
+        "name": "Kshitij Aggarwal",
+        "username": "funkyidol",
+        "external_id": "868fca5202e1793f5ef869b6f23eac38",
+        "profile_pic": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/profile/default.png"
+      },
+      "time_details": {
+        "time_needed": 120,
+        "label": "+2h "
+      },
+      "group_details": {
+        "num_participants": 1,
+        "time_needed_per_participant": 120
+      },
+      "is_online": false,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 06:53:13",
+      "skill_set": {
+        "skills": [
+          {
+            "id": "038810d0fea91e013692cedfdf517478",
+            "name": "Violin",
+            "image": " "
+          }
+        ],
+        "categories": [
+          {
+            "id": "eb41d3ec3517082114a95ebb62b13616",
+            "name": "Arts & Music",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/arts-music.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/arts-music.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "4767bbf85dd3f3c7a64137a4a6966482",
+          "date": "2018-04-10",
+          "location_details": {
+            "location_id": "7a053b2832b188ea4fa153d8c5e8d22e",
+            "location_name": "Barakhamba Road",
+            "location_address": null,
+            "location_radius": "100",
+            "pincode": "110001",
+            "lat": "28.629731",
+            "lng": "77.22509349999996"
+          }
+        }
+      }
+    },
+    {
+      "id": "4df008ce49c549cb788781816fae1659",
+      "title": "Roof top gardening",
+      "creator_role": 3,
+      "creator": {
+        "id": "3767d7596a6d03cf822e4625788e3fef",
+        "name": "Kshitij Aggarwal",
+        "username": "funkyidol",
+        "external_id": "868fca5202e1793f5ef869b6f23eac38",
+        "profile_pic": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/profile/default.png"
+      },
+      "time_details": {
+        "time_needed": 150,
+        "label": "+2h 30m"
+      },
+      "group_details": {
+        "num_participants": 1,
+        "time_needed_per_participant": 150
+      },
+      "is_online": true,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 07:17:16",
+      "skill_set": {
+        "categories": [
+          {
+            "id": "1efd5a4cb7e8b445ad239f0226526c5f",
+            "name": "Lifestyle",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/lifestyle.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/lifestyle.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "fa2f3ee6455e13e77f28eed1cd74c3d8",
+          "date": "2018-04-12",
+          "location_details": {
+            "location_id": "031959e009b365865b7741eaf0b55be0",
+            "location_name": "Kohat Enclave",
+            "location_address": "Kohat Enclave, Pitampura, Delhi, 110034, India",
+            "location_radius": "100",
+            "pincode": "110034",
+            "lat": "28.6964931",
+            "lng": "77.1386014"
+          }
+        }
+      }
+    },
+    {
+      "id": "746833611fdd75ef3c3334e446bca677",
+      "title": "I can be your Cycling buddy!",
+      "creator_role": 3,
+      "creator": {
+        "id": "3767d7596a6d03cf822e4625788e3fef",
+        "name": "Kshitij Aggarwal",
+        "username": "funkyidol",
+        "external_id": "868fca5202e1793f5ef869b6f23eac38",
+        "profile_pic": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/profile/default.png"
+      },
+      "time_details": {
+        "time_needed": 90,
+        "label": "+1h 30m"
+      },
+      "group_details": {
+        "num_participants": 10,
+        "time_needed_per_participant": 90
+      },
+      "is_online": false,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 04:07:22",
+      "skill_set": {
+        "skills": [
+          {
+            "id": "14943f54ebfea38049fe16972c96772e",
+            "name": "Cycling",
+            "image": " "
+          },
+          {
+            "id": "4b26b24f5ca9f641d9f59d0dc7765919",
+            "name": "Movie Buddy",
+            "image": " "
+          },
+          {
+            "id": "654ade090b9bef1336d58db70f10a95e",
+            "name": "Theatre Buddy",
+            "image": " "
+          },
+          {
+            "id": "e37d765a38edd72056a80cdb489761f0",
+            "name": "Concert Buddy",
+            "image": " "
+          },
+          {
+            "id": "e42a4d0b4cbcb3a8cce40293c2038837",
+            "name": "Sports Buddy",
+            "image": null
+          },
+          {
+            "id": "fd4441a8a723aee26ef1053c3ede6dad",
+            "name": "Travel Buddy",
+            "image": null
+          }
+        ]
+      },
+      "media_urls": [
+        "http://localhost/~nidhigurnani/hvapi/assets/category/bg/default/lifestyle.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 0,
+        "session_individual_count": 1,
+        "session": {
+          "id": "cdda65bdd2895085f83aee90b3495c65",
+          "date": "2018-04-14",
+          "location_details": {
+            "location_id": "ad858eca48c5fde3460b1a72ce2111a6",
+            "location_name": "Bonta Park",
+            "location_address": "Chauburja, Kamla Nehru Ridge, Civil Lines, Delhi",
+            "location_radius": "100",
+            "pincode": "110007",
+            "lat": "28.684876",
+            "lng": "77.21389"
+          }
+        }
+      }
+    },
+    {
+      "id": "75e8cb7689d5d68a8e4bab41acc37a24",
+      "title": "Tips on starting a home business",
+      "creator_role": 3,
+      "creator": {
+        "id": "42f75216dfc6b85417e17773122b1e81",
+        "name": "Nidhi Gurnani",
+        "username": "nidhign",
+        "external_id": "7c00b9294aa84448133eef62c0896b53",
+        "profile_pic": "http://staging.hourvillage.com/api/images/users/42f75216dfc6b85417e17773122b1e81_experiement_poster_dp.jpg"
+      },
+      "time_details": {
+        "time_needed": 60,
+        "label": "+1h "
+      },
+      "group_details": {
+        "num_participants": 1,
+        "time_needed_per_participant": 60
+      },
+      "is_online": true,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 07:31:04",
+      "skill_set": {
+        "categories": [
+          {
+            "id": "d6e6cb19e3b9c02f89d6cd54cfa7c613",
+            "name": "Business",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/business.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/business.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "3ff0b5bf5118f4f29ccc5a708874400a",
+          "date": "2018-04-13",
+          "location_details": {
+            "location_id": "c04a6b0254079927c876a30f3404c292",
+            "location_name": "Barakhamba Metro Station",
+            "location_address": "Barakhamba, New Delhi, Delhi 110001, India",
+            "location_radius": "100",
+            "pincode": "110001",
+            "lat": "28.629353",
+            "lng": "77.225331"
+          }
+        }
+      }
+    },
+    {
+      "id": "aa38e3c9e0d5725e27ce86305d674069",
+      "title": "Photography 101",
+      "creator_role": 3,
+      "creator": {
+        "id": "42f75216dfc6b85417e17773122b1e81",
+        "name": "Nidhi Gurnani",
+        "username": "nidhign",
+        "external_id": "7c00b9294aa84448133eef62c0896b53",
+        "profile_pic": "http://staging.hourvillage.com/api/images/users/42f75216dfc6b85417e17773122b1e81_experiement_poster_dp.jpg"
+      },
+      "time_details": {
+        "time_needed": 60,
+        "label": "+1h "
+      },
+      "group_details": {
+        "num_participants": 5,
+        "time_needed_per_participant": 60
+      },
+      "is_online": false,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 07:51:42",
+      "skill_set": {
+        "skills": [
+          {
+            "id": "a2a5c33eda9046576764de2400b1aa50",
+            "name": "Photography",
+            "image": " "
+          }
+        ],
+        "categories": [
+          {
+            "id": "eb41d3ec3517082114a95ebb62b13616",
+            "name": "Arts & Music",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/arts-music.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/arts-music.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "1d932d583e2b511fd1c2c95f6d4b8141",
+          "date": "2018-04-15",
+          "location_details": {
+            "location_id": "220ecb3290410aea3cb363988c79138c",
+            "location_name": "Red Fort",
+            "location_address": "Charkhe Walan, Old Delhi, Delhi, 110006, India",
+            "location_radius": "100",
+            "pincode": "110006",
+            "lat": "28.653628",
+            "lng": "77.236382"
+          }
+        }
+      }
+    },
+    {
+      "id": "d64b63a82f357841d0cf9ba49ac232e5",
+      "title": "Marathon running basics",
+      "creator_role": 3,
+      "creator": {
+        "id": "42f75216dfc6b85417e17773122b1e81",
+        "name": "Nidhi Gurnani",
+        "username": "nidhign",
+        "external_id": "7c00b9294aa84448133eef62c0896b53",
+        "profile_pic": "http://staging.hourvillage.com/api/images/users/42f75216dfc6b85417e17773122b1e81_experiement_poster_dp.jpg"
+      },
+      "time_details": {
+        "time_needed": 120,
+        "label": "+2h "
+      },
+      "group_details": {
+        "num_participants": 1,
+        "time_needed_per_participant": 120
+      },
+      "is_online": true,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 07:53:00",
+      "skill_set": {
+        "categories": [
+          {
+            "id": "918e180e06b96c76b7193c9fcb1cb312",
+            "name": "Sports",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/sports.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/sports.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "28753a5948d3eb07513faa72536b346d",
+          "date": "2018-04-16",
+          "location_details": {
+            "location_id": "87cf4c9643bfcdbc3f780b5520a01447",
+            "location_name": "India Gate",
+            "location_address": "India Gate, New Delhi, Delhi, India",
+            "location_radius": "100",
+            "pincode": "0",
+            "lat": "28.6109401",
+            "lng": "77.234482"
+          }
+        }
+      }
+    },
+    {
+      "id": "fcd09772878d31d8441d3373d22206b3",
+      "title": "Crash course on Digital Marketing",
+      "creator_role": 3,
+      "creator": {
+        "id": "3767d7596a6d03cf822e4625788e3fef",
+        "name": "Kshitij Aggarwal",
+        "username": "funkyidol",
+        "external_id": "868fca5202e1793f5ef869b6f23eac38",
+        "profile_pic": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/profile/default.png"
+      },
+      "time_details": {
+        "time_needed": 60,
+        "label": "+1h "
+      },
+      "group_details": {
+        "num_participants": 1,
+        "time_needed_per_participant": 60
+      },
+      "is_online": false,
+      "status": {
+        "code": 1,
+        "label": "Published"
+      },
+      "creation_date": "2018-04-06 06:55:10",
+      "skill_set": {
+        "skills": [
+          {
+            "id": "9f48c58dc921bf2333df287cd82ed21b",
+            "name": "Digital Marketing",
+            "image": " "
+          }
+        ],
+        "categories": [
+          {
+            "id": "d6e6cb19e3b9c02f89d6cd54cfa7c613",
+            "name": "Business",
+            "image": "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/business.png"
+          }
+        ]
+      },
+      "media_urls": [
+        "http://staging.hourvillage.com/~nidhigurnani/hvapi/assets/category/bg/default/business.png"
+      ],
+      "is_favorited": false,
+      "session_details": {
+        "session_series_count": 1,
+        "session_individual_count": null,
+        "session": {
+          "id": "c5f0479e90706380eed2de33e8adeda8",
+          "date": "2018-04-09",
+          "location_details": {
+            "location_id": "b5b274f088a1ff88eb0388bc3f80a781",
+            "location_name": "Barakhamba Metro Station",
+            "location_address": "Fire Brigade Lane, Barakhamba, New Delhi, Delhi 110001, India",
+            "location_radius": "100",
+            "pincode": "110001",
+            "lat": "28.6297108",
+            "lng": "77.2252548"
+          }
+        }
+      }
+    }
+  ]
+}
